@@ -1,0 +1,109 @@
+region,crop,month,rainfall_mm,classification
+Kampala,Maize,Jan,120.0,Drought risk
+Kampala,Maize,Feb,140.0,Good for maize
+Kampala,Maize,Mar,180.0,Good for maize
+Kampala,Maize,Apr,200.0,Good for maize
+Kampala,Maize,May,220.0,Waterlogging risk
+Kampala,Maize,Jun,180.0,Good for maize
+Kampala,Maize,Jul,90.0,Drought risk
+Kampala,Maize,Aug,70.0,Drought risk
+Kampala,Maize,Sep,60.0,Drought risk
+Kampala,Maize,Oct,100.0,Drought risk
+Kampala,Maize,Nov,110.0,Drought risk
+Kampala,Maize,Dec,130.0,Good for maize
+Kampala,Beans,Jan,120.0,Good for beans
+Kampala,Beans,Feb,140.0,Good for beans
+Kampala,Beans,Mar,180.0,Waterlogging risk
+Kampala,Beans,Apr,200.0,Waterlogging risk
+Kampala,Beans,May,220.0,Waterlogging risk
+Kampala,Beans,Jun,180.0,Waterlogging risk
+Kampala,Beans,Jul,90.0,Drought risk
+Kampala,Beans,Aug,70.0,Drought risk
+Kampala,Beans,Sep,60.0,Drought risk
+Kampala,Beans,Oct,100.0,Good for beans
+Kampala,Beans,Nov,110.0,Good for beans
+Kampala,Beans,Dec,130.0,Good for beans
+Kampala,Coffee,Jan,120.0,Good for coffee
+Kampala,Coffee,Feb,140.0,Good for coffee
+Kampala,Coffee,Mar,180.0,Waterlogging risk
+Kampala,Coffee,Apr,200.0,Waterlogging risk
+Kampala,Coffee,May,220.0,Waterlogging risk
+Kampala,Coffee,Jun,180.0,Waterlogging risk
+Kampala,Coffee,Jul,90.0,Drought risk
+Kampala,Coffee,Aug,70.0,Drought risk
+Kampala,Coffee,Sep,60.0,Drought risk
+Kampala,Coffee,Oct,100.0,Good for coffee
+Kampala,Coffee,Nov,110.0,Good for coffee
+Kampala,Coffee,Dec,130.0,Good for coffee
+Gulu,Maize,Jan,8.0,Drought risk
+Gulu,Maize,Feb,25.0,Drought risk
+Gulu,Maize,Mar,75.0,Drought risk
+Gulu,Maize,Apr,160.0,Good for maize
+Gulu,Maize,May,190.0,Good for maize
+Gulu,Maize,Jun,145.0,Good for maize
+Gulu,Maize,Jul,170.0,Good for maize
+Gulu,Maize,Aug,215.0,Waterlogging risk
+Gulu,Maize,Sep,175.0,Good for maize
+Gulu,Maize,Oct,150.0,Good for maize
+Gulu,Maize,Nov,60.0,Drought risk
+Gulu,Maize,Dec,15.0,Drought risk
+Gulu,Beans,Jan,8.0,Drought risk
+Gulu,Beans,Feb,25.0,Drought risk
+Gulu,Beans,Mar,75.0,Drought risk
+Gulu,Beans,Apr,160.0,Good for beans
+Gulu,Beans,May,190.0,Waterlogging risk
+Gulu,Beans,Jun,145.0,Good for beans
+Gulu,Beans,Jul,170.0,Waterlogging risk
+Gulu,Beans,Aug,215.0,Waterlogging risk
+Gulu,Beans,Sep,175.0,Waterlogging risk
+Gulu,Beans,Oct,150.0,Good for beans
+Gulu,Beans,Nov,60.0,Drought risk
+Gulu,Beans,Dec,15.0,Drought risk
+Gulu,Coffee,Jan,8.0,Drought risk
+Gulu,Coffee,Feb,25.0,Drought risk
+Gulu,Coffee,Mar,75.0,Drought risk
+Gulu,Coffee,Apr,160.0,Waterlogging risk
+Gulu,Coffee,May,190.0,Waterlogging risk
+Gulu,Coffee,Jun,145.0,Good for coffee
+Gulu,Coffee,Jul,170.0,Waterlogging risk
+Gulu,Coffee,Aug,215.0,Waterlogging risk
+Gulu,Coffee,Sep,175.0,Waterlogging risk
+Gulu,Coffee,Oct,150.0,Good for coffee
+Gulu,Coffee,Nov,60.0,Drought risk
+Gulu,Coffee,Dec,15.0,Drought risk
+Mbarara,Maize,Jan,70.0,Drought risk
+Mbarara,Maize,Feb,85.0,Drought risk
+Mbarara,Maize,Mar,120.0,Drought risk
+Mbarara,Maize,Apr,140.0,Good for maize
+Mbarara,Maize,May,90.0,Drought risk
+Mbarara,Maize,Jun,25.0,Drought risk
+Mbarara,Maize,Jul,20.0,Drought risk
+Mbarara,Maize,Aug,55.0,Drought risk
+Mbarara,Maize,Sep,100.0,Drought risk
+Mbarara,Maize,Oct,125.0,Good for maize
+Mbarara,Maize,Nov,120.0,Drought risk
+Mbarara,Maize,Dec,90.0,Drought risk
+Mbarara,Beans,Jan,70.0,Drought risk
+Mbarara,Beans,Feb,85.0,Drought risk
+Mbarara,Beans,Mar,120.0,Good for beans
+Mbarara,Beans,Apr,140.0,Good for beans
+Mbarara,Beans,May,90.0,Drought risk
+Mbarara,Beans,Jun,25.0,Drought risk
+Mbarara,Beans,Jul,20.0,Drought risk
+Mbarara,Beans,Aug,55.0,Drought risk
+Mbarara,Beans,Sep,100.0,Good for beans
+Mbarara,Beans,Oct,125.0,Good for beans
+Mbarara,Beans,Nov,120.0,Good for beans
+Mbarara,Beans,Dec,90.0,Drought risk
+Mbarara,Coffee,Jan,70.0,Drought risk
+Mbarara,Coffee,Feb,85.0,Drought risk
+Mbarara,Coffee,Mar,120.0,Good for coffee
+Mbarara,Coffee,Apr,140.0,Good for coffee
+Mbarara,Coffee,May,90.0,Drought risk
+Mbarara,Coffee,Jun,25.0,Drought risk
+Mbarara,Coffee,Jul,20.0,Drought risk
+Mbarara,Coffee,Aug,55.0,Drought risk
+Mbarara,Coffee,Sep,100.0,Good for coffee
+Mbarara,Coffee,Oct,125.0,Good for coffee
+Mbarara,Coffee,Nov,120.0,Good for coffee
+Mbarara,Coffee,Dec,90.0,Drought risk
